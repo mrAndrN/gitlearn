@@ -22,7 +22,7 @@ console.log('log')
 Go to [google](https://google.com) site
 
 Add image
-![eye](image/11.jpg)
+![eye](images/11.jpg)
 
 | ID | Name | Surname |
 | ------ | ------| ------ |
